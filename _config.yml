@@ -8,7 +8,7 @@
 # 网站基础设置
 locale                   : "zn-CN"
 site_theme               : "default"
-title                    : "HaoNan Tang / Academic Home"
+title                    : "HaoNan's Academic Home"
 title_separator          : "-"
 name                     : &name "HaoNan Tang"
 description              : &description "Bachelor's student in Artificial Intelligence at Wuhan University of Technology (2022–2026)"
