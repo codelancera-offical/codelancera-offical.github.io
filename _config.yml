@@ -23,11 +23,9 @@ author:
   # 个人简介信息
   avatar                 : "me.jpg"
   name                   : "HaoNan Tang"
-  pronouns               : # 例如: "she/her" (用于指定性别代词)
   bio                    : "AI undergraduate in WUT."
   location               : "Wuhan, China"
   employer               : "Wuhan University of Technology"
-  uri                    : # 个人网站链接
   email                  : "lancera.thn@gmail.com"
 
   # 学术网站
@@ -35,15 +33,9 @@ author:
   googlescholar          :
 
   # 代码仓库和软件开发
-  github                 : "academicpages"
+  github                 : "https://github.com/codelancera-offical"
 
   # 社交媒体
-  facebook               : # 用户名
-  instagram              : # 用户名
-  steam                  : # 用户名
-  telegram               : # 链接地址
-  tumblr                 : # 用户名
-  twitter                : # X / Twitter 的用户名
   youtube                : # 用户名
   zhihu                  : # 用户名
 
